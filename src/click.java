@@ -21,6 +21,8 @@ public class click {
 		// TODO Auto-generated method stub
 
 		
+//chnaged in gitx check is it showing in git y
+
 		// Hello Checking if GITX user gets my chnages or not.
 		
 		
